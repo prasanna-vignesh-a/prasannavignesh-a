@@ -26,7 +26,7 @@
   <h3>💡 Power Platform</h3>
   <ul style="list-style: none; padding: 0;">
     <li><img src="https://github.com/user-attachments/assets/8b44c27e-71ea-4091-bbd5-451a528c7eed" alt="Power Apps" width="24" /> Power Apps</li>
-    <li><img src="https://img.icons8.com/color/48/microsoft-flow.png" alt="Power Automate" width="24" /> Power Automate</li>
+    <li><img src="https://github.com/user-attachments/assets/ba941e8d-e9ea-4681-8078-c3df7ace0e4c" alt="Power Automate" width="24" /> Power Automate</li>
     <li><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="24" /> Power BI</li>
     <li><img src="https://img.icons8.com/fluency/48/web.png" alt="Power Pages" width="24" /> Power Pages</li>
     <li><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-chatbot-customer-support-flat-flat-juicy-fish.png" alt="Copilot Studio" width="24" /> Copilot Studio</li>
