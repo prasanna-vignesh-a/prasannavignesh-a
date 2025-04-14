@@ -20,6 +20,31 @@
 
 ---
 
+<section>
+  <h2>🧠 Tech Stack</h2>
+
+  <h3>💡 Power Platform</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li><img src="https://img.icons8.com/color/48/power-apps.png" alt="Power Apps" width="24" /> Power Apps</li>
+    <li><img src="https://img.icons8.com/color/48/microsoft-flow.png" alt="Power Automate" width="24" /> Power Automate</li>
+    <li><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="24" /> Power BI</li>
+    <li><img src="https://img.icons8.com/fluency/48/web.png" alt="Power Pages" width="24" /> Power Pages</li>
+    <li><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-chatbot-customer-support-flat-flat-juicy-fish.png" alt="Copilot Studio" width="24" /> Copilot Studio</li>
+  </ul>
+
+  <h3>🔗 Integrations</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li><img src="https://img.icons8.com/color/48/sharepoint.png" alt="SharePoint" width="24" /> SharePoint</li>
+    <li><img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-database-database-flat-icons-inmotus-design-5.png" alt="Dataverse" width="24" /> Dataverse</li>
+    <li><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="24" /> Excel</li>
+    <li><img src="https://img.icons8.com/ios/50/api.png" alt="APIs" width="24" /> APIs</li>
+    <li><img src="https://img.icons8.com/ios-filled/50/plug.png" alt="Custom Connectors" width="24" /> Custom Connectors</li>
+    <li><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-ai-robotics-flatart-icons-outline-flatarticons.png" alt="AI Builder" width="24" /> AI Builder</li>
+    <li><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-prompt-content-creation-flaticons-lineal-color-flat-icons.png" alt="AI Prompts" width="24" /> AI Prompts</li>
+  </ul>
+</section>
+
+
 ### 🧠 Tech Stack
 ### 💡 Power Platform
 <a href="https://learn.microsoft.com/en-us/power-apps/" target="_blank"><img height="30" src="https://img.icons8.com/color/48/power-apps.png"/> Power Apps</a>
