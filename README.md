@@ -29,7 +29,7 @@
     <li><img src="https://github.com/user-attachments/assets/ba941e8d-e9ea-4681-8078-c3df7ace0e4c" alt="Power Automate" width="24" /> Power Automate</li>
     <li><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="24" /> Power BI</li>
     <li><img src="https://img.icons8.com/fluency/48/web.png" alt="Power Pages" width="24" /> Power Pages</li>
-    <li><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-chatbot-customer-support-flat-flat-juicy-fish.png" alt="Copilot Studio" width="24" /> Copilot Studio</li>
+    <li><img src="https://github.com/user-attachments/assets/4200b60d-783d-426c-aa11-a19a4abfc7c8" alt="Copilot Studio" width="24" /> Copilot Studio</li>
   </ul>
 
   <h3>🔗 Integrations</h3>
