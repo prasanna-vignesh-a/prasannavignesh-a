@@ -25,7 +25,8 @@
 
   <h3>💡 Power Platform</h3>
   <ul style="list-style: none; padding: 0;">
-    <li><img src="[https://img.icons8.com/color/48/power-apps.png](https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000)" alt="Power Apps" width="24" /> Power Apps</li>
+    <li><img src="![image](https://github.com/user-attachments/assets/8b44c27e-71ea-4091-bbd5-451a528c7eed)
+" alt="Power Apps" width="24" /> Power Apps</li>
     <li><img src="https://img.icons8.com/color/48/microsoft-flow.png" alt="Power Automate" width="24" /> Power Automate</li>
     <li><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="24" /> Power BI</li>
     <li><img src="https://img.icons8.com/fluency/48/web.png" alt="Power Pages" width="24" /> Power Pages</li>
