@@ -1,66 +1,108 @@
 ## Hi there 👋 I'm Prasanna Vignesh A
 
-🚀 Power Platform Developer | SharePoint Enthusiast | Automator | Lifelong Learner  
-💼 Software Engineer @ Capgemini | Ex-Freelancer (Power Platform Solutions)  
+🚀 **AI Automation Engineer | Power Platform Developer**  
+💼 Senior Software Engineer @ Capgemini | Ex-Freelancer (Web Developer)
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+---
 
 ### 🔧 What I Do
-- 🧩 Build end-to-end business apps using **Power Apps**, **Power Automate**, **Power BI**, **Power Pages**, and **Copilot Studio**
-- 💼 Experience with **Dataverse**, **SharePoint**, **Excel**, **PDFs**, **APIs**, and **Custom Connectors**
-- 🧠 Implement automation with **AI Builder**, **AI Prompts**, and **Power Automate flows**
-- 🔍 Focus on **Digital Transformation**, **Low-Code Development**, and **Process Automation**
+
+- 🤖 Build **AI Agents** using Python, LLM APIs, and tool-calling architectures  
+- 🧩 Develop enterprise apps using **Power Apps**, **Power Automate**, **Power BI**, and **Copilot Studio**  
+- 📄 Implement **RAG pipelines** for document intelligence and knowledge retrieval  
+- 🔗 Integrate **LLMs with real-world systems** (APIs, workflows, enterprise apps)  
+- ⚙️ Automate business workflows using **Power Platform + Generative AI**
 
 ---
 
 ### 📍 Current Focus
-- 💡 Learning and teaching **Power Platform + AI** integration  
-- 💬 Sharing daily insights on **#100DaysOfPowerPlatform**  
-- 🛠️ Building full-stack Power Platform solutions with ALM, DevOps Pipelines, and Governance
+
+- 🤖 Building **AI Agents with RAG, Tool Calling, and Memory**
+- 🧠 Exploring **LLM orchestration and multi-step reasoning**
+- ⚡ Combining **Generative AI + enterprise automation**
+- 🛠️ Developing intelligent automation systems using **Python + Power Platform**
 
 ---
 
-<section>
-  <h2>🧠 Tech Stack</h2>
+## 🧠 Tech Stack
 
-  <h3>💡 Power Platform</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li><img src="https://github.com/user-attachments/assets/8b44c27e-71ea-4091-bbd5-451a528c7eed" alt="Power Apps" width="24" /> Power Apps</li>
-    <li><img src="https://github.com/user-attachments/assets/ba941e8d-e9ea-4681-8078-c3df7ace0e4c" alt="Power Automate" width="24" /> Power Automate</li>
-    <li><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="24" /> Power BI</li>
-    <li><img src="https://img.icons8.com/fluency/48/web.png" alt="Power Pages" width="24" /> Power Pages</li>
-    <li><img src="https://github.com/user-attachments/assets/4200b60d-783d-426c-aa11-a19a4abfc7c8" alt="Copilot Studio" width="24" /> Copilot Studio</li>
-  </ul>
+### 🤖 Generative AI
 
-  <h3>🔗 Integrations</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li><img src="https://github.com/user-attachments/assets/285b0caf-2101-4549-8de2-86c5cf44494f alt="SharePoint" width="24" /> SharePoint</li>
-    <li><img src="https://github.com/user-attachments/assets/82ec2770-d35b-40b6-a3ef-1e97d7e67df1" alt="Dataverse" width="24" /> Dataverse</li>
-    <li><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="24" /> Excel</li>
-    <li><img src="https://img.icons8.com/ios/50/api.png" alt="APIs" width="24" /> APIs</li>
-    <li><img src="https://img.icons8.com/ios-filled/50/plug.png" alt="Custom Connectors" width="24" /> Custom Connectors</li>
-    <li><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-ai-robotics-flatart-icons-outline-flatarticons.png" alt="AI Builder" width="24" /> AI Builder</li>
-    <li><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-prompt-content-creation-flaticons-lineal-color-flat-icons.png" alt="AI Prompts" width="24" /> AI Prompts</li>
-  </ul>
-</section>
-
-
-#### 🛠 Tools & IDEs
-<a href="https://code.visualstudio.com/" target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> <a href="https://git-scm.com/" target="_blank"><img height="40" src="https://img.icons8.com/color/48/000000/git.png"/></a> <a href="https://powerpoint.office.com/" target="_blank"><img height="40" src="https://img.icons8.com/fluency/48/microsoft-powerpoint.png"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"><img height="40" src="https://img.icons8.com/color/48/sharepoint.png"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img height="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank"><img height="40" src="https://img.icons8.com/color/48/microsoft-onedrive.png"/></a>
+- Python  
+- Gemini API  
+- OpenAI API  
+- Retrieval Augmented Generation (RAG)  
+- FAISS Vector Search  
+- Sentence Transformers  
+- AI Agents & Tool Calling
 
 ---
 
-### 📊 GitHub Stats
+### 💡 Power Platform
 
-![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasannavignesh-a&theme=dark&show_icons=true&hide=issues)
+- Power Apps  
+- Power Automate  
+- Power BI  
+- Power Pages  
+- Copilot Studio  
+
+---
+
+### 🔗 Integrations
+
+- SharePoint  
+- Dataverse  
+- REST APIs  
+- Custom Connectors  
+- Gmail API  
+- Google Sheets API
+- LinkedIn API
+
+---
+
+### 💻 Programming
+
+- Python
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Agents System
+
+Python-based AI agent capable of:
+
+- RAG document retrieval
+- tool calling (calculator, web search, file reader)
+- memory retrieval
+- multi-step reasoning
+
+Tech Stack:
+Python • Gemini API • FAISS • Sentence Transformers
+
+🔗 Repo  
+https://github.com/prasanna-vignesh-a/ai-agents
+
+---
+
+### ⚡ LinkedIn Post Automation
+Automated system that generated and published LinkedIn posts for **80 consecutive days**.
+
+Tech: n8n • Gemini AI • OpenAI API • LinkedIn API
+
+---
+
+### 💰 Automated Expense Tracker
+AI-powered automation that extracts transaction data from emails and logs expenses automatically.
+
+Tech: n8n • Gmail API • Google Sheets API • Gemini AI
 
 ---
 
 ### 🌐 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prasannavignesh-a/)  
-[<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />](#) <!-- Add your portfolio link here -->
-
----
-
-📌 *“Building apps that make work easier, faster, and smarter — one flow at a time!”*
+[LinkedIn](https://www.linkedin.com/in/prasannavignesh-a/)
