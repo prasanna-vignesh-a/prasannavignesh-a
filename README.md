@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Prasanna Vignesh A
 
 🚀 **AI Automation Engineer | Agentic AI Developer | Power Platform Developer**  
-💼 AI Automation Engineer & Power Platform Develope @ Capgemini | Ex-Freelancer (Web Developer)
+💼 AI Automation Engineer & Power Platform Developer @ Capgemini | Ex-Freelancer (Web Developer)
 
 ---
 
@@ -18,8 +18,8 @@
 
 ### 📍 Current Focus
 
-- 🤖 Building **AI Agents with RAG, Tool Calling, and Memory**
-- 🧠 Exploring **LLM orchestration and multi-step reasoning**
+- 🚀 Shipped a **production AI Agent** with 9-model fallback, Docker, auth, and live deployment
+- 🧠 Exploring **LLM orchestration and multi-agent systems**
 - ⚡ Designing **agentic n8n workflows** that combine Gemini AI with real-world APIs
 - 🛠️ Developing intelligent automation systems using **Python + n8n + Power Platform**
 
@@ -29,6 +29,7 @@
 
 ### 🤖 Generative AI & LLM
 - AI Agents & Agentic AI
+- Multi-Model Fallback Chain (9 models)
 - Retrieval Augmented Generation (RAG)
 - Prompt Engineering & LLM Tool Calling
 - Gemini API · OpenAI API · Groq · DeepSeek · NVIDIA NIM · OpenRouter
@@ -77,16 +78,17 @@
 ## 📌 Featured Projects
 
 ### 🤖 Production AI Agent — RAG, Tool Calling & Multi-Model Fallback
-Python-based stateful AI agent with:
+Python-based stateful AI agent built and deployed to production:
 - ReAct loop (plan → act → observe → repeat) with Planner-Executor pattern
 - 9-model fallback chain (Gemini, DeepSeek, Groq, OpenRouter, NVIDIA, Claude, GPT-4o) for zero downtime
-- Production RAG pipeline using FAISS and Sentence Transformers with per-user isolated vector stores
-- Tool calling for web search, calculator, file reader, and RAG
-- Deployed on Render with Docker, API auth, rate limiting, and structured logging
+- Production RAG pipeline using FAISS and Sentence Transformers with per-user isolated vector stores saved to disk
+- Tool calling for web search (real page content), calculator, file reader, and RAG
+- Per-user persistent memory — survives server restarts, isolated per session
+- Deployed on Render with Docker, API key auth, rate limiting, and structured logging
 
 **Tech:** Python · FastAPI · Docker · FAISS · Gemini · Groq · OpenRouter · NVIDIA
 
-🔗 [github.com/prasanna-vignesh-a/ai-agents](https://github.com/prasanna-vignesh-a/ai-agents)
+🔗 [Live Demo](https://ai-agents-9wra.onrender.com/docs) · [GitHub](https://github.com/prasanna-vignesh-a/ai-agents)
 
 ---
 
@@ -97,7 +99,7 @@ End-to-end agentic n8n workflow that generated and published LinkedIn posts for 
 
 **Tech:** n8n · Gemini AI · Google Sheets API · Gmail API · LinkedIn API
 
-🔗 [github.com/prasanna-vignesh-a/n8n-linkedin-automation](https://github.com/prasanna-vignesh-a/n8n-linkedin-automation)
+🔗 [GitHub](https://github.com/prasanna-vignesh-a/n8n-linkedin-automation)
 
 ---
 
@@ -108,7 +110,7 @@ Intelligent n8n workflow that monitors bank and credit card alert emails in real
 
 **Tech:** n8n · Gmail API · Google Sheets API · Gemini AI
 
-🔗 [github.com/prasanna-vignesh-a/n8n-expense-tracker](https://github.com/prasanna-vignesh-a/n8n-expense-tracker)
+🔗 [GitHub](https://github.com/prasanna-vignesh-a/n8n-expense-tracker)
 
 ---
 
