@@ -1,18 +1,18 @@
-## Hi there 👋 I'm Prasanna Vignesh A
+# Hi there 👋 I'm Prasanna Vignesh A
 
-🚀 **AI Automation Engineer | Power Platform Developer**  
-💼 Senior Software Engineer @ Capgemini | Ex-Freelancer (Web Developer)
-
+🚀 **AI Automation Engineer | Agentic AI Developer | Power Platform Developer**  
+💼 AI Automation Engineer & Power Platform Develope @ Capgemini | Ex-Freelancer (Web Developer)
 
 ---
 
 ### 🔧 What I Do
 
-- 🤖 Build **AI Agents** using Python, LLM APIs, and tool-calling architectures  
-- 🧩 Develop enterprise apps using **Power Apps**, **Power Automate**, **Power BI**, and **Copilot Studio**  
-- 📄 Implement **RAG pipelines** for document intelligence and knowledge retrieval  
-- 🔗 Integrate **LLMs with real-world systems** (APIs, workflows, enterprise apps)  
-- ⚙️ Automate business workflows using **Power Platform + Generative AI**
+- 🤖 Build **Agentic AI systems** using Python, LLM APIs, RAG, and tool-calling architectures
+- ⚡ Design **end-to-end automation workflows** using **n8n** with AI-powered content generation and API integrations
+- 🧩 Develop enterprise apps using **Power Apps**, **Power Automate**, **Power BI**, and **Copilot Studio**
+- 📄 Implement **RAG pipelines** for document intelligence and knowledge retrieval
+- 🔗 Integrate **LLMs with real-world systems** — APIs, workflows, and enterprise platforms
+- ☁️ Build AI-driven solutions on **Azure** using Azure OpenAI, AI Document Intelligence, and Logic Apps
 
 ---
 
@@ -20,89 +20,110 @@
 
 - 🤖 Building **AI Agents with RAG, Tool Calling, and Memory**
 - 🧠 Exploring **LLM orchestration and multi-step reasoning**
-- ⚡ Combining **Generative AI + enterprise automation**
-- 🛠️ Developing intelligent automation systems using **Python + Power Platform**
+- ⚡ Designing **agentic n8n workflows** that combine Gemini AI with real-world APIs
+- 🛠️ Developing intelligent automation systems using **Python + n8n + Power Platform**
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🤖 Generative AI
+### 🤖 Generative AI & LLM
+- AI Agents & Agentic AI
+- Retrieval Augmented Generation (RAG)
+- Prompt Engineering & LLM Tool Calling
+- Gemini API · OpenAI API · Groq · DeepSeek · NVIDIA NIM · OpenRouter
+- FAISS Vector Search
+- Sentence Transformers
 
-- Python  
-- Gemini API  
-- OpenAI API  
-- Retrieval Augmented Generation (RAG)  
-- FAISS Vector Search  
-- Sentence Transformers  
-- AI Agents & Tool Calling
+---
+
+### ⚙️ Production & DevOps
+- Docker · FastAPI · REST APIs
+- API Authentication · Rate Limiting · Structured Logging
+- Render · Railway
 
 ---
 
 ### 💡 Power Platform
-
-- Power Apps  
-- Power Automate  
-- Power BI  
-- Power Pages  
-- Copilot Studio  
-
----
-
-### 🔗 Integrations
-
-- SharePoint  
-- Dataverse  
-- REST APIs  
-- Custom Connectors  
-- Gmail API  
-- Google Sheets API
-- LinkedIn API
+- Power Apps (Canvas & Model-Driven)
+- Power Automate
+- Power BI
+- Copilot Studio
+- Custom Connectors · AI Builder · Dataverse · SharePoint
 
 ---
 
-### 💻 Programming
+### ☁️ Azure
+- Azure OpenAI
+- Azure AI Document Intelligence
+- Azure Logic Apps
+- AI Foundry · Azure Cosmos DB · Azure AD
 
-- Python
-- JavaScript
-- HTML
-- CSS
+---
+
+### ⚡ Automation & Integration
+- n8n
+- Webhooks · Gmail API · Google Sheets API · LinkedIn API · Microsoft Graph API
+- REST APIs
+
+---
+
+### 💻 Programming & Databases
+- Python · JavaScript · HTML · CSS
+- PostgreSQL · Supabase · Microsoft SQL Server
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI Agents System
+### 🤖 Production AI Agent — RAG, Tool Calling & Multi-Model Fallback
+Python-based stateful AI agent with:
+- ReAct loop (plan → act → observe → repeat) with Planner-Executor pattern
+- 9-model fallback chain (Gemini, DeepSeek, Groq, OpenRouter, NVIDIA, Claude, GPT-4o) for zero downtime
+- Production RAG pipeline using FAISS and Sentence Transformers with per-user isolated vector stores
+- Tool calling for web search, calculator, file reader, and RAG
+- Deployed on Render with Docker, API auth, rate limiting, and structured logging
 
-Python-based AI agent capable of:
+**Tech:** Python · FastAPI · Docker · FAISS · Gemini · Groq · OpenRouter · NVIDIA
 
-- RAG document retrieval
-- tool calling (calculator, web search, file reader)
-- memory retrieval
-- multi-step reasoning
-
-Tech Stack:
-Python • Gemini API • FAISS • Sentence Transformers
-
-🔗 Repo  
-https://github.com/prasanna-vignesh-a/ai-agents
+🔗 [github.com/prasanna-vignesh-a/ai-agents](https://github.com/prasanna-vignesh-a/ai-agents)
 
 ---
 
 ### ⚡ LinkedIn Post Automation
-Automated system that generated and published LinkedIn posts for **80 consecutive days**.
+End-to-end agentic n8n workflow that generated and published LinkedIn posts for **80+ consecutive days** with zero manual intervention.
+- Google Sheets content queue filtered by post status, with auto-deletion after publishing
+- Google Gemini 2.5 Flash for post generation with JavaScript post-processing for LinkedIn API compatibility
 
-Tech: n8n • Gemini AI • OpenAI API • LinkedIn API
+**Tech:** n8n · Gemini AI · Google Sheets API · Gmail API · LinkedIn API
+
+🔗 [github.com/prasanna-vignesh-a/n8n-linkedin-automation](https://github.com/prasanna-vignesh-a/n8n-linkedin-automation)
 
 ---
 
 ### 💰 Automated Expense Tracker
-AI-powered automation that extracts transaction data from emails and logs expenses automatically.
+Intelligent n8n workflow that monitors bank and credit card alert emails in real time and automatically logs every transaction to Google Sheets — eliminating manual expense entry.
+- Google Gemini extracts and normalizes transaction details from raw email text
+- Categorizes expenses into predefined categories automatically
 
-Tech: n8n • Gmail API • Google Sheets API • Gemini AI
+**Tech:** n8n · Gmail API · Google Sheets API · Gemini AI
+
+🔗 [github.com/prasanna-vignesh-a/n8n-expense-tracker](https://github.com/prasanna-vignesh-a/n8n-expense-tracker)
+
+---
+
+## 🏅 Certifications
+
+- Microsoft Power Platform Functional Consultant (PL-200)
+- Microsoft Power Platform Fundamentals (PL-900)
+- Microsoft Azure AI Fundamentals (AI-900)
+- Microsoft Azure Developer Associate (AZ-204)
+- Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
 ### 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/prasannavignesh-a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prasanna--vignesh--a-blue?logo=linkedin)](https://www.linkedin.com/in/prasanna-vignesh-a-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prasanna--vignesh--a.vercel.app-black?logo=vercel)](https://prasanna-vignesh-a.vercel.app)
+[![Email](https://img.shields.io/badge/Email-prasannavignesha.mech@gmail.com-red?logo=gmail)](mailto:prasannavignesha.mech@gmail.com)
