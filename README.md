@@ -79,6 +79,7 @@
 
 ### 🤖 Production AI Agent — RAG, Tool Calling & Multi-Model Fallback
 Python-based stateful AI agent built and deployed to production:
+
 - ReAct loop (plan → act → observe → repeat) with Planner-Executor pattern
 - 9-model fallback chain (Gemini, DeepSeek, Groq, OpenRouter, NVIDIA, Claude, GPT-4o) for zero downtime
 - Production RAG pipeline using FAISS and Sentence Transformers with per-user isolated vector stores saved to disk
@@ -89,6 +90,31 @@ Python-based stateful AI agent built and deployed to production:
 **Tech:** Python · FastAPI · Docker · FAISS · Gemini · Groq · OpenRouter · NVIDIA
 
 🔗 [Live Demo](https://ai-agents-9wra.onrender.com/docs) · [GitHub](https://github.com/prasanna-vignesh-a/ai-agents)
+
+---
+
+###  🤖 AI-Powered Hiring Automation System — Multi-Agent Workflow
+Enterprise-grade multi-agent hiring system built using Microsoft Copilot Studio for end-to-end recruitment automation.
+
+ - Orchestrator-based architecture with specialized agents (resume intake, evaluation, interview prep)
+ - Automated resume parsing, data extraction, and candidate profiling from emails
+ - Dataverse-powered dynamic job-role matching and evaluation logic
+ - Event-driven workflows for notifications and interview preparation
+
+**Tech:** Copilot Studio · Dataverse · Power Automate · AI Builder · Microsoft Teams
+
+---
+
+### 🛠️ IT Helpdesk Agent — Autonomous Ticket & Device Request Automation
+
+AI-powered IT support agent that automates ticket creation, approvals, and device request workflows.
+
+Built conversational agent using Copilot Studio with structured topics and triggers
+Adaptive card interface for capturing user requests (tickets, devices, access)
+Automated approval flows, notifications, and backend updates using Power Automate
+SharePoint event triggers for autonomous ticket processing and action execution
+
+**Tech:** Copilot Studio · Power Automate · SharePoint · Power Fx
 
 ---
 
